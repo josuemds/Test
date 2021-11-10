@@ -1,2 +1,1 @@
-Esto es una prueba
-segunda linea
+echo "Esto es una prueba en pc";
