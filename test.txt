@@ -1,1 +1,1 @@
-echo "Esto es una prueba en pc";
+echo "Este es el conflicto arreglado";
