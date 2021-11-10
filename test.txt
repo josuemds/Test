@@ -1,1 +1,2 @@
 echo "Este es el conflicto arreglado";
+otra linea
